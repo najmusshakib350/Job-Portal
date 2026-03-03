@@ -1,0 +1,66 @@
+[2026-02-28T15:36:49.131Z] ERROR: POST /api/applications - 
+Invalid `prisma.application.create()` invocation in
+E:\Application Code\Qtecsolution\apps\backend\src\modules\applications\applications.service.ts:4:51
+
+  1 import { prisma } from "../../config/prisma";
+  2 
+  3 export const ApplicationsService = {
+→ 4   create: async (data: any) => prisma.application.create(
+Foreign key constraint violated on the constraint: `Application_jobId_fkey`
+[2026-02-28T15:52:57.788Z] ERROR: POST /api/applications - 
+Invalid `prisma.application.create()` invocation in
+E:\Application Code\Qtecsolution\apps\backend\src\modules\applications\applications.service.ts:4:51
+
+  1 import { prisma } from "../../config/prisma";
+  2 
+  3 export const ApplicationsService = {
+→ 4   create: async (data: any) => prisma.application.create(
+Foreign key constraint violated on the constraint: `Application_jobId_fkey`
+[2026-02-28T15:55:37.581Z] ERROR: POST /api/applications - Invalid input: expected string, received undefined
+[2026-02-28T16:10:09.584Z] ERROR: POST /api/applications - Job not found with ID: 
+[2026-02-28T16:10:26.997Z] ERROR: POST /api/applications - Invalid input: expected string, received undefined
+[2026-02-28T16:11:20.220Z] ERROR: POST /api/applications - Invalid input: expected string, received undefined
+[2026-02-28T16:13:40.704Z] ERROR: POST /api/applications - Validation failed: body.name: Invalid input: expected string, received undefined
+[2026-02-28T16:15:35.426Z] ERROR: POST /api/applications - You have already applied for this job
+[2026-02-28T16:15:40.755Z] ERROR: POST /api/applications - Invalid input: Invalid input: expected string, received undefined
+[2026-02-28T16:19:38.332Z] ERROR: POST /api/applications - You have already applied for this job
+[2026-02-28T16:19:44.195Z] ERROR: POST /api/applications - Validation failed: body.name: Invalid input: expected string, received undefined
+[2026-02-28T16:27:12.071Z] ERROR: GET /api/jobs/a357ef1f-19f4-4112-9fdf-a0c4717d0874 - Job not found with ID: a357ef1f-19f4-4112-9fdf-a0c4717d0874
+[2026-02-28T16:27:29.568Z] ERROR: POST /api/jobs - Validation failed: body.title: Invalid input: expected string, received undefined
+[2026-02-28T16:30:27.292Z] ERROR: POST /api/jobs - Validation failed: body.title: Invalid input: expected string, received undefined
+[2026-02-28T16:34:27.877Z] ERROR: POST /api/jobs - Validation failed: body.title: Invalid input: expected string, received undefined
+[2026-02-28T16:37:54.692Z] ERROR: POST /api/jobs - Validation failed: body.title: Title is required
+[2026-02-28T16:38:08.828Z] ERROR: POST /api/jobs - Validation failed: body.title: Title should be at least 3 characters
+[2026-02-28T16:41:29.057Z] ERROR: GET /api/applications/1ba8a41f-28f5-44a8-847d-af7501572b330 - Job not found with ID: 1ba8a41f-28f5-44a8-847d-af7501572b330
+[2026-03-01T17:03:15.701Z] ERROR: GET /api/jobs/a357ef1f-19f4-4112-9fdf-a0c4717d0874 - 
+Invalid `prisma.job.findUnique()` invocation in
+E:\Application Code\Qtecsolution\apps\backend\src\modules\jobs\jobs.service.ts:17:34
+
+  14 },
+  15 
+  16 getOne: async (id: string): Promise<JobResponse> => {
+→ 17   const job = await prisma.job.findUnique(
+
+[2026-03-01T17:03:41.212Z] ERROR: GET /api/jobs/a357ef1f-19f4-4112-9fdf-a0c4717d0874 - Job not found with ID: a357ef1f-19f4-4112-9fdf-a0c4717d0874
+[2026-03-01T17:33:13.685Z] ERROR: POST /api/applications - Validation failed: body.name: Name is required
+[2026-03-01T17:34:49.782Z] ERROR: POST /api/applications - Validation failed: body.name: Name is required
+[2026-03-01T17:35:16.585Z] ERROR: POST /api/applications - You have already applied for this job
+[2026-03-02T04:56:51.040Z] ERROR: GET /api/jobs/1 - Job not found with ID: 1
+[2026-03-02T13:30:16.603Z] ERROR: GET /api/jobs - 
+Invalid `prisma.job.findMany()` invocation in
+E:\Application Code\Qtecsolution\apps\backend\src\modules\jobs\jobs.service.ts:14:18
+
+  11 getAll: async (query: JobQuery) => {
+  12   const { where, skip, take, orderBy } = buildQuery(query);
+  13   const [jobs, total] = await prisma.$transaction([
+→ 14     prisma.job.findMany(
+
+[2026-03-02T13:33:17.552Z] ERROR: GET /api/jobs - 
+Invalid `prisma.job.findMany()` invocation in
+E:\Application Code\Qtecsolution\apps\backend\src\modules\jobs\jobs.service.ts:14:18
+
+  11 getAll: async (query: JobQuery) => {
+  12   const { where, skip, take, orderBy } = buildQuery(query);
+  13   const [jobs, total] = await prisma.$transaction([
+→ 14     prisma.job.findMany(
+

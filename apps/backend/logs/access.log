@@ -1,0 +1,493 @@
+[2026-02-28T13:45:38.961Z] INFO: Database connected
+[2026-02-28T13:45:38.969Z] INFO: Server running on port 5000 [development]
+[2026-02-28T13:45:39.630Z] INFO: Database connected
+[2026-02-28T13:45:39.633Z] INFO: Server running on port 5000 [development]
+[2026-02-28T13:45:47.376Z] INFO: Shutting down server...
+[2026-02-28T14:33:59.328Z] INFO: Database connected
+[2026-02-28T14:33:59.334Z] INFO: Server running on port 5000 [development]
+[2026-02-28T14:34:00.012Z] INFO: Database connected
+[2026-02-28T14:34:00.015Z] INFO: Server running on port 5000 [development]
+[2026-02-28T14:34:12.152Z] INFO: Database connected
+[2026-02-28T14:34:12.155Z] INFO: Server running on port 5000 [development]
+[2026-02-28T14:35:25.891Z] INFO: Jobs fetched | {"count":0}
+[2026-02-28T14:36:25.846Z] INFO: Job created | {"id":"a357ef1f-19f4-4112-9fdf-a0c4717d0874"}
+[2026-02-28T14:36:26.720Z] INFO: Database connected
+[2026-02-28T14:36:26.723Z] INFO: Server running on port 5000 [development]
+[2026-02-28T14:36:44.696Z] INFO: Shutting down server...
+[2026-02-28T15:33:27.012Z] INFO: Database connected
+[2026-02-28T15:33:27.017Z] INFO: Server running on port 5000 [development]
+[2026-02-28T15:33:27.734Z] INFO: Database connected
+[2026-02-28T15:33:27.737Z] INFO: Server running on port 5000 [development]
+[2026-02-28T15:33:33.070Z] INFO: Jobs fetched | {"count":1}
+[2026-02-28T15:34:02.120Z] INFO: Job fetched | {"id":"a357ef1f-19f4-4112-9fdf-a0c4717d0874"}
+[2026-02-28T15:34:44.645Z] INFO: Job deleted | {"id":"a357ef1f-19f4-4112-9fdf-a0c4717d0874"}
+[2026-02-28T15:34:50.223Z] INFO: Jobs fetched | {"count":0}
+[2026-02-28T15:34:53.424Z] INFO: Job created | {"id":"1ba8a41f-28f5-44a8-847d-af7501572b33"}
+[2026-02-28T15:40:16.545Z] INFO: Database connected
+[2026-02-28T15:40:16.549Z] INFO: Server running on port 5000 [development]
+[2026-02-28T15:40:17.304Z] INFO: Database connected
+[2026-02-28T15:40:17.308Z] INFO: Server running on port 5000 [development]
+[2026-02-28T15:44:15.103Z] INFO: Database connected
+[2026-02-28T15:44:15.107Z] INFO: Server running on port 5000 [development]
+[2026-02-28T15:52:50.263Z] INFO: Database connected
+[2026-02-28T15:52:50.268Z] INFO: Server running on port 5000 [development]
+[2026-02-28T16:05:16.527Z] INFO: Database connected
+[2026-02-28T16:05:16.536Z] INFO: Server running on port 5000 [development]
+[2026-02-28T16:09:58.028Z] INFO: Database connected
+[2026-02-28T16:09:58.137Z] INFO: Server running on port 5000 [development]
+[2026-02-28T16:10:05.787Z] INFO: Database connected
+[2026-02-28T16:10:05.790Z] INFO: Server running on port 5000 [development]
+[2026-02-28T16:11:08.137Z] INFO: Jobs fetched | {"count":1}
+[2026-02-28T16:13:30.867Z] INFO: Database connected
+[2026-02-28T16:13:30.870Z] INFO: Server running on port 5000 [development]
+[2026-02-28T16:13:31.473Z] INFO: Database connected
+[2026-02-28T16:13:31.476Z] INFO: Server running on port 5000 [development]
+[2026-02-28T16:15:28.439Z] INFO: Database connected
+[2026-02-28T16:15:28.442Z] INFO: Server running on port 5000 [development]
+[2026-02-28T16:15:31.340Z] INFO: Application submitted - Job ID: 1ba8a41f-28f5-44a8-847d-af7501572b33, Applicant: Najmus Shakib
+[2026-02-28T16:15:58.583Z] INFO: Database connected
+[2026-02-28T16:15:58.588Z] INFO: Server running on port 5000 [development]
+[2026-02-28T16:16:57.545Z] INFO: Database connected
+[2026-02-28T16:16:57.547Z] INFO: Server running on port 5000 [development]
+[2026-02-28T16:17:16.255Z] INFO: Database connected
+[2026-02-28T16:17:16.258Z] INFO: Server running on port 5000 [development]
+[2026-02-28T16:19:23.239Z] INFO: Database connected
+[2026-02-28T16:19:23.244Z] INFO: Server running on port 5000 [development]
+[2026-02-28T16:19:30.752Z] INFO: Database connected
+[2026-02-28T16:19:30.755Z] INFO: Server running on port 5000 [development]
+[2026-02-28T16:19:32.028Z] INFO: Database connected
+[2026-02-28T16:19:32.031Z] INFO: Server running on port 5000 [development]
+[2026-02-28T16:20:04.629Z] INFO: Database connected
+[2026-02-28T16:20:04.633Z] INFO: Server running on port 5000 [development]
+[2026-02-28T16:20:34.437Z] INFO: Database connected
+[2026-02-28T16:20:34.439Z] INFO: Server running on port 5000 [development]
+[2026-02-28T16:20:35.191Z] INFO: Database connected
+[2026-02-28T16:20:35.194Z] INFO: Server running on port 5000 [development]
+[2026-02-28T16:24:31.312Z] INFO: Database connected
+[2026-02-28T16:24:31.315Z] INFO: Server running on port 5000 [development]
+[2026-02-28T16:27:00.766Z] INFO: Database connected
+[2026-02-28T16:27:00.769Z] INFO: Server running on port 5000 [development]
+[2026-02-28T16:27:23.262Z] INFO: Job created - ID: 366a251c-dc44-4d8b-8a6b-cc868252afb6
+[2026-02-28T16:27:47.267Z] INFO: Database connected
+[2026-02-28T16:27:47.270Z] INFO: Server running on port 5000 [development]
+[2026-02-28T16:30:23.700Z] INFO: Database connected
+[2026-02-28T16:30:23.703Z] INFO: Server running on port 5000 [development]
+[2026-02-28T16:31:02.864Z] INFO: Database connected
+[2026-02-28T16:31:02.867Z] INFO: Server running on port 5000 [development]
+[2026-02-28T16:34:23.956Z] INFO: Database connected
+[2026-02-28T16:34:23.959Z] INFO: Server running on port 5000 [development]
+[2026-02-28T16:34:24.666Z] INFO: Database connected
+[2026-02-28T16:34:24.671Z] INFO: Server running on port 5000 [development]
+[2026-02-28T16:37:12.905Z] INFO: Database connected
+[2026-02-28T16:37:12.908Z] INFO: Server running on port 5000 [development]
+[2026-02-28T16:37:50.162Z] INFO: Database connected
+[2026-02-28T16:37:50.165Z] INFO: Server running on port 5000 [development]
+[2026-02-28T16:38:24.167Z] INFO: Database connected
+[2026-02-28T16:38:24.170Z] INFO: Server running on port 5000 [development]
+[2026-02-28T16:39:03.785Z] INFO: Database connected
+[2026-02-28T16:39:03.789Z] INFO: Server running on port 5000 [development]
+[2026-02-28T16:40:53.271Z] INFO: Jobs fetched - Count: 2
+[2026-02-28T16:41:16.446Z] INFO: Applications fetched - Job ID: 1ba8a41f-28f5-44a8-847d-af7501572b33, Count: 1
+[2026-02-28T16:41:35.305Z] INFO: Applications fetched - Job ID: 1ba8a41f-28f5-44a8-847d-af7501572b33, Count: 1
+[2026-02-28T16:43:24.376Z] INFO: Database connected
+[2026-02-28T16:43:24.380Z] INFO: Server running on port 5000 [development]
+[2026-02-28T16:43:28.889Z] INFO: Applications fetched - Job ID: 1ba8a41f-28f5-44a8-847d-af7501572b33, Count: 1
+[2026-03-01T16:31:57.926Z] INFO: Database connected
+[2026-03-01T16:31:57.931Z] INFO: Server running on port 5000 [development]
+[2026-03-01T16:31:58.634Z] INFO: Database connected
+[2026-03-01T16:31:58.636Z] INFO: Server running on port 5000 [development]
+[2026-03-01T16:48:06.590Z] INFO: Database connected
+[2026-03-01T16:48:06.604Z] INFO: Server running on port 5000 [development]
+[2026-03-01T16:48:07.457Z] INFO: Database connected
+[2026-03-01T16:48:07.461Z] INFO: Server running on port 5000 [development]
+[2026-03-01T17:04:35.213Z] INFO: Jobs fetched - Count: 2
+[2026-03-01T17:11:43.938Z] INFO: Job fetched - ID: 366a251c-dc44-4d8b-8a6b-cc868252afb6
+[2026-03-01T17:32:35.211Z] INFO: Job fetched - ID: 366a251c-dc44-4d8b-8a6b-cc868252afb6
+[2026-03-01T17:32:35.710Z] INFO: Job fetched - ID: 366a251c-dc44-4d8b-8a6b-cc868252afb6
+[2026-03-01T17:33:15.779Z] INFO: Database connected
+[2026-03-01T17:33:15.783Z] INFO: Server running on port 5000 [development]
+[2026-03-01T17:38:27.755Z] INFO: Application submitted - Job ID: 366a251c-dc44-4d8b-8a6b-cc868252afb6, Applicant: shakibn350@gmail.com
+[2026-03-02T03:40:14.475Z] INFO: Database connected
+[2026-03-02T03:40:14.487Z] INFO: Server running on port 5000 [development]
+[2026-03-02T03:40:15.212Z] INFO: Database connected
+[2026-03-02T03:40:15.215Z] INFO: Server running on port 5000 [development]
+[2026-03-02T04:15:07.021Z] INFO: Jobs fetched - Count: 2
+[2026-03-02T04:23:26.617Z] INFO: Jobs fetched - Count: 2
+[2026-03-02T04:34:28.498Z] INFO: Jobs fetched - Count: 2
+[2026-03-02T04:34:46.846Z] INFO: Jobs fetched - Count: 2
+[2026-03-02T04:35:10.224Z] INFO: Jobs fetched - Count: 2
+[2026-03-02T04:37:46.512Z] INFO: Jobs fetched - Count: 2
+[2026-03-02T04:42:06.901Z] INFO: Database connected
+[2026-03-02T04:42:06.909Z] INFO: Server running on port 5000 [development]
+[2026-03-02T04:42:07.626Z] INFO: Database connected
+[2026-03-02T04:42:07.629Z] INFO: Server running on port 5000 [development]
+[2026-03-02T04:43:36.317Z] INFO: Jobs fetched - Count: 0
+[2026-03-02T04:43:41.200Z] INFO: Jobs fetched - Count: 2
+[2026-03-02T04:43:46.288Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T04:44:17.268Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T04:50:42.255Z] INFO: Database connected
+[2026-03-02T04:50:42.258Z] INFO: Server running on port 5000 [development]
+[2026-03-02T04:50:48.569Z] INFO: Database connected
+[2026-03-02T04:50:48.572Z] INFO: Server running on port 5000 [development]
+[2026-03-02T04:51:43.990Z] INFO: Database connected
+[2026-03-02T04:51:43.995Z] INFO: Server running on port 5000 [development]
+[2026-03-02T04:51:44.773Z] INFO: Database connected
+[2026-03-02T04:51:44.776Z] INFO: Server running on port 5000 [development]
+[2026-03-02T04:51:48.698Z] INFO: Database connected
+[2026-03-02T04:51:48.701Z] INFO: Server running on port 5000 [development]
+[2026-03-02T04:53:55.516Z] INFO: Jobs fetched - Count: 2
+[2026-03-02T04:54:44.017Z] INFO: Jobs fetched - Count: 2
+[2026-03-02T04:55:06.955Z] INFO: Jobs fetched - Count: 2
+[2026-03-02T04:56:11.542Z] INFO: Jobs fetched - Count: 2
+[2026-03-02T04:56:19.638Z] INFO: Jobs fetched - Count: 2
+[2026-03-02T04:57:09.150Z] INFO: Jobs fetched - Count: 2
+[2026-03-02T04:57:13.554Z] INFO: Jobs fetched - Count: 2
+[2026-03-02T04:57:21.469Z] INFO: Jobs fetched - Count: 2
+[2026-03-02T04:58:06.046Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T04:58:24.115Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T04:58:30.595Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T04:59:20.240Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T04:59:33.528Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T04:59:36.885Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T04:59:40.339Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T04:59:43.153Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T05:24:21.640Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T05:24:25.007Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T05:24:37.552Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T05:24:44.304Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T05:24:48.070Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T05:24:51.700Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T05:25:00.812Z] INFO: Jobs fetched - Count: 2
+[2026-03-02T05:25:53.978Z] INFO: Job created - ID: 6cc8bd2c-2ab4-421d-935f-689774fff89b
+[2026-03-02T05:25:54.733Z] INFO: Database connected
+[2026-03-02T05:25:54.736Z] INFO: Server running on port 5000 [development]
+[2026-03-02T05:25:55.530Z] INFO: Database connected
+[2026-03-02T05:25:55.534Z] INFO: Server running on port 5000 [development]
+[2026-03-02T05:25:59.202Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T05:26:02.757Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T05:26:06.758Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T05:26:13.463Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T05:26:16.764Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T05:26:19.187Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T05:26:21.948Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T05:34:29.509Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T05:34:42.846Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T05:34:45.240Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T05:35:15.427Z] INFO: Job created - ID: a73f6b8c-6478-4d8f-8fbd-eb1691be0afd
+[2026-03-02T05:37:11.738Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T05:37:16.206Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T05:37:18.647Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T05:52:58.262Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T05:53:00.608Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T05:53:02.341Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T05:53:09.152Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T05:53:14.147Z] INFO: Jobs fetched - Count: 0
+[2026-03-02T05:59:57.789Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T06:06:27.738Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T06:06:30.624Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T06:06:35.541Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T06:06:38.486Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T06:09:36.734Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T06:09:37.710Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T06:09:38.729Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T06:09:41.127Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T06:21:30.087Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T06:32:12.975Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T06:32:14.044Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T06:32:15.365Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T06:32:16.669Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T08:14:50.173Z] INFO: Database connected
+[2026-03-02T08:14:50.178Z] INFO: Server running on port 5000 [development]
+[2026-03-02T08:14:50.928Z] INFO: Database connected
+[2026-03-02T08:14:50.933Z] INFO: Server running on port 5000 [development]
+[2026-03-02T08:15:12.520Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T08:15:17.358Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T08:15:56.424Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T08:24:10.689Z] INFO: Database connected
+[2026-03-02T08:24:10.697Z] INFO: Server running on port 5000 [development]
+[2026-03-02T08:24:29.727Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T08:25:33.649Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T08:25:33.651Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T08:42:23.346Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T08:42:23.358Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T08:49:26.703Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T08:49:26.707Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T08:49:44.475Z] INFO: Jobs fetched - Count: 0
+[2026-03-02T08:49:58.453Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T08:49:58.456Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T08:50:15.987Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T08:50:36.616Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T08:50:36.620Z] INFO: Jobs fetched - Count: 0
+[2026-03-02T08:53:13.536Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T08:53:13.589Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T08:53:27.699Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T08:53:29.108Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T08:53:30.094Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T08:53:40.348Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T08:54:00.227Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T08:54:00.230Z] INFO: Jobs fetched - Count: 0
+[2026-03-02T08:54:05.940Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T08:54:12.731Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T08:54:22.304Z] INFO: Jobs fetched - Count: 0
+[2026-03-02T08:54:33.306Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T08:54:33.308Z] INFO: Jobs fetched - Count: 0
+[2026-03-02T08:54:39.433Z] INFO: Jobs fetched - Count: 0
+[2026-03-02T08:54:43.428Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T08:55:29.135Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T08:55:29.137Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T08:55:34.814Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T08:55:39.598Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T08:55:41.574Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T08:55:45.486Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T08:56:00.616Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T08:56:05.542Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T08:56:20.379Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T08:57:57.665Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T08:57:57.669Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T08:59:24.386Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T08:59:24.389Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T08:59:30.626Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T08:59:50.297Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T09:04:06.764Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T09:04:06.767Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T09:04:13.913Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T09:04:17.416Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T09:04:23.695Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T09:04:27.367Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T09:04:38.547Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T09:04:48.195Z] INFO: Jobs fetched - Count: 0
+[2026-03-02T09:04:51.874Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T09:05:20.896Z] INFO: Job fetched - ID: a73f6b8c-6478-4d8f-8fbd-eb1691be0afd
+[2026-03-02T09:06:13.798Z] INFO: Application submitted - Job ID: a73f6b8c-6478-4d8f-8fbd-eb1691be0afd, Applicant: Najmus Shakib
+[2026-03-02T09:06:14.698Z] INFO: Database connected
+[2026-03-02T09:06:14.701Z] INFO: Server running on port 5000 [development]
+[2026-03-02T09:06:22.789Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T09:06:22.799Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T09:06:27.940Z] INFO: Job fetched - ID: a73f6b8c-6478-4d8f-8fbd-eb1691be0afd
+[2026-03-02T09:07:35.202Z] INFO: Shutting down server...
+[2026-03-02T09:44:59.012Z] INFO: Database connected
+[2026-03-02T09:44:59.022Z] INFO: Server running on port 5000 [development]
+[2026-03-02T09:44:59.774Z] INFO: Database connected
+[2026-03-02T09:44:59.777Z] INFO: Server running on port 5000 [development]
+[2026-03-02T10:02:56.097Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T10:02:56.119Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T10:03:08.835Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T10:03:13.073Z] INFO: Jobs fetched - Count: 2
+[2026-03-02T10:03:25.476Z] INFO: Job fetched - ID: a73f6b8c-6478-4d8f-8fbd-eb1691be0afd
+[2026-03-02T10:30:09.491Z] INFO: Database connected
+[2026-03-02T10:30:09.500Z] INFO: Server running on port 5000 [development]
+[2026-03-02T10:30:10.200Z] INFO: Database connected
+[2026-03-02T10:30:10.203Z] INFO: Server running on port 5000 [development]
+[2026-03-02T10:30:30.907Z] INFO: Job fetched - ID: a73f6b8c-6478-4d8f-8fbd-eb1691be0afd
+[2026-03-02T11:18:07.437Z] INFO: Job created - ID: 5eba7835-e6c2-4735-9d5a-4f3a2fac1357
+[2026-03-02T11:18:08.791Z] INFO: Database connected
+[2026-03-02T11:18:08.799Z] INFO: Server running on port 5000 [development]
+[2026-03-02T11:18:09.500Z] INFO: Database connected
+[2026-03-02T11:18:09.503Z] INFO: Server running on port 5000 [development]
+[2026-03-02T11:26:27.616Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T11:26:27.633Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T11:26:36.314Z] INFO: Job fetched - ID: a73f6b8c-6478-4d8f-8fbd-eb1691be0afd
+[2026-03-02T11:28:30.736Z] INFO: Shutting down server...
+[2026-03-02T12:43:27.884Z] INFO: Database connected
+[2026-03-02T12:43:27.896Z] INFO: Server running on port 5000 [development]
+[2026-03-02T12:43:28.584Z] INFO: Database connected
+[2026-03-02T12:43:28.588Z] INFO: Server running on port 5000 [development]
+[2026-03-02T12:44:15.350Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T12:44:15.360Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T12:44:15.368Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T12:44:15.373Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T12:46:08.334Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T12:46:08.348Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T12:47:19.448Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T12:47:19.453Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T12:47:33.183Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T12:47:42.968Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T13:33:29.248Z] INFO: Shutting down server...
+[2026-03-02T13:33:49.177Z] INFO: Database connected
+[2026-03-02T13:33:49.187Z] INFO: Server running on port 5000 [development]
+[2026-03-02T13:34:04.484Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T13:34:44.210Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T13:35:47.270Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T13:55:21.990Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T13:58:09.273Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T13:59:40.678Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T14:02:20.917Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T14:02:20.978Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T14:02:34.837Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T14:09:43.021Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T14:09:43.027Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T14:09:46.209Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T14:11:18.556Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T14:11:18.566Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T14:11:20.787Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T14:31:13.990Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T14:31:14.000Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T14:40:36.871Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T14:40:36.880Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T14:45:54.768Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T14:45:54.778Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T14:52:39.204Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T14:52:39.215Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T14:52:41.116Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T15:00:08.654Z] INFO: Job fetched - ID: 5eba7835-e6c2-4735-9d5a-4f3a2fac1357
+[2026-03-02T15:00:16.274Z] INFO: Job fetched - ID: 5eba7835-e6c2-4735-9d5a-4f3a2fac1357
+[2026-03-02T15:00:23.133Z] INFO: Job fetched - ID: 5eba7835-e6c2-4735-9d5a-4f3a2fac1357
+[2026-03-02T15:03:22.203Z] INFO: Database connected
+[2026-03-02T15:03:22.211Z] INFO: Server running on port 5000 [development]
+[2026-03-02T15:03:22.956Z] INFO: Database connected
+[2026-03-02T15:03:22.959Z] INFO: Server running on port 5000 [development]
+[2026-03-02T15:03:40.896Z] INFO: Job fetched - ID: 5eba7835-e6c2-4735-9d5a-4f3a2fac1357
+[2026-03-02T15:05:54.507Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T15:05:54.513Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T15:06:33.354Z] INFO: Shutting down server...
+[2026-03-02T16:34:56.942Z] INFO: Database connected
+[2026-03-02T16:34:56.956Z] INFO: Server running on port 5000 [development]
+[2026-03-02T16:34:58.085Z] INFO: Database connected
+[2026-03-02T16:34:58.090Z] INFO: Server running on port 5000 [development]
+[2026-03-02T16:35:58.431Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T16:35:58.476Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T16:50:55.844Z] INFO: Database connected
+[2026-03-02T16:50:55.853Z] INFO: Server running on port 5000 [development]
+[2026-03-02T17:03:03.227Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T17:14:04.689Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T17:14:52.052Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T17:18:38.661Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T17:18:46.178Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T17:18:48.248Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T17:18:49.978Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T17:18:51.704Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T17:18:53.782Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T17:18:57.275Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T17:19:22.024Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T17:19:24.448Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T17:19:25.812Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T17:19:27.396Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T17:19:28.829Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T17:28:42.127Z] INFO: Job deleted - ID: 5eba7835-e6c2-4735-9d5a-4f3a2fac1357
+[2026-03-02T17:32:02.472Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T17:46:44.097Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T17:47:52.645Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T17:54:46.917Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T17:54:51.872Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T17:55:12.831Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T17:55:23.216Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T17:56:15.882Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T17:56:17.642Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T17:56:18.269Z] INFO: Jobs fetched - Count: 4
+[2026-03-02T17:56:57.734Z] INFO: Job created - ID: dd8ce3d6-7bfe-4943-a6d9-691d19522622
+[2026-03-02T17:56:58.753Z] INFO: Database connected
+[2026-03-02T17:56:58.761Z] INFO: Server running on port 5000 [development]
+[2026-03-02T17:56:59.478Z] INFO: Database connected
+[2026-03-02T17:56:59.480Z] INFO: Server running on port 5000 [development]
+[2026-03-02T17:57:01.414Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T17:57:01.488Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T17:57:01.502Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T17:57:41.326Z] INFO: Job created - ID: 1d719e7d-a12c-439c-8b71-2c30ac565c4f
+[2026-03-02T17:57:44.276Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T17:57:44.344Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T17:57:44.359Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T17:57:52.279Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T17:57:54.679Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T17:57:57.114Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T17:57:58.346Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T17:58:00.226Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T17:58:01.162Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T17:58:05.270Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T17:58:45.978Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T17:58:49.466Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T17:58:50.555Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T17:59:16.949Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T17:59:18.380Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T17:59:20.252Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T17:59:21.510Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T17:59:22.534Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T17:59:23.650Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T18:02:53.803Z] INFO: Job deleted - ID: 1d719e7d-a12c-439c-8b71-2c30ac565c4f
+[2026-03-02T18:02:58.431Z] INFO: Jobs fetched - Count: 0
+[2026-03-02T18:03:04.405Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T18:03:05.340Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T18:03:06.120Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T18:03:06.996Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T18:03:08.064Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T18:05:54.044Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T18:05:54.664Z] INFO: Jobs fetched - Count: 2
+[2026-03-02T18:06:06.897Z] INFO: Jobs fetched - Count: 2
+[2026-03-02T18:06:08.666Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T18:06:09.996Z] INFO: Jobs fetched - Count: 2
+[2026-03-02T18:06:11.251Z] INFO: Jobs fetched - Count: 2
+[2026-03-02T18:12:45.059Z] INFO: Jobs fetched - Count: 5
+[2026-03-02T18:12:45.652Z] INFO: Jobs fetched - Count: 2
+[2026-03-02T18:12:49.234Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T18:12:54.522Z] INFO: Job deleted - ID: 1ba8a41f-28f5-44a8-847d-af7501572b33
+[2026-03-02T18:12:54.549Z] INFO: Jobs fetched - Count: 0
+[2026-03-02T18:12:57.497Z] INFO: Jobs fetched - Count: 2
+[2026-03-02T18:13:16.074Z] INFO: Job deleted - ID: 366a251c-dc44-4d8b-8a6b-cc868252afb6
+[2026-03-02T18:13:16.096Z] INFO: Jobs fetched - Count: 1
+[2026-03-02T18:13:19.553Z] INFO: Job deleted - ID: 6cc8bd2c-2ab4-421d-935f-689774fff89b
+[2026-03-02T18:13:19.576Z] INFO: Jobs fetched - Count: 0
+[2026-03-02T18:13:19.612Z] INFO: Jobs fetched - Count: 2
+[2026-03-02T18:14:57.211Z] INFO: Jobs fetched - Count: 2
+[2026-03-02T18:14:57.240Z] INFO: Jobs fetched - Count: 2
+[2026-03-02T18:15:04.555Z] INFO: Job fetched - ID: a73f6b8c-6478-4d8f-8fbd-eb1691be0afd
+[2026-03-02T18:26:15.598Z] INFO: Jobs fetched - Count: 2
+[2026-03-02T18:26:15.601Z] INFO: Jobs fetched - Count: 2
+[2026-03-03T03:51:40.052Z] INFO: Database connected
+[2026-03-03T03:51:40.061Z] INFO: Server running on port 5000 [development]
+[2026-03-03T03:51:40.785Z] INFO: Database connected
+[2026-03-03T03:51:40.787Z] INFO: Server running on port 5000 [development]
+[2026-03-03T03:52:19.853Z] INFO: Jobs fetched - Count: 2
+[2026-03-03T03:52:19.866Z] INFO: Jobs fetched - Count: 2
+[2026-03-03T04:17:54.235Z] INFO: Jobs fetched - Count: 2
+[2026-03-03T04:17:54.244Z] INFO: Jobs fetched - Count: 2
+[2026-03-03T04:44:24.104Z] INFO: Shutting down server...
+[2026-03-03T09:55:14.127Z] INFO: Database connected
+[2026-03-03T09:55:14.137Z] INFO: Server running on port 5000 [development]
+[2026-03-03T09:55:14.896Z] INFO: Database connected
+[2026-03-03T09:55:14.899Z] INFO: Server running on port 5000 [development]
+[2026-03-03T10:01:55.779Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T10:01:55.785Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T10:02:40.462Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T10:02:40.474Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T10:07:20.334Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T10:07:20.339Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T10:09:13.408Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T10:09:13.415Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T10:11:51.903Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T10:11:51.908Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T10:15:38.129Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T10:15:38.140Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T10:19:59.075Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T10:19:59.085Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T10:37:53.076Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T10:37:53.085Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T10:38:46.957Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T10:38:46.967Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T10:39:58.507Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T10:39:58.516Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T10:42:44.048Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T10:42:44.068Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T10:44:08.740Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T10:44:08.744Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T10:46:30.093Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T10:46:30.099Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T10:47:46.204Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T10:47:46.213Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T10:48:32.313Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T10:48:32.321Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T10:54:03.498Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T10:54:03.506Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T11:03:35.733Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T11:03:35.754Z] INFO: Jobs fetched - Count: 1
+[2026-03-03T11:06:14.842Z] INFO: Database connected
+[2026-03-03T11:06:14.850Z] INFO: Server running on port 5000 [development]
+[2026-03-03T11:06:14.933Z] INFO: Job created - ID: e5f0a093-4229-42eb-8e06-21f334d95ee0
+[2026-03-03T11:06:15.584Z] INFO: Database connected
+[2026-03-03T11:06:15.587Z] INFO: Server running on port 5000 [development]
+[2026-03-03T11:06:18.604Z] INFO: Jobs fetched - Count: 3
+[2026-03-03T11:06:18.745Z] INFO: Jobs fetched - Count: 2
+[2026-03-03T11:06:18.778Z] INFO: Jobs fetched - Count: 2
+[2026-03-03T11:06:22.250Z] INFO: Jobs fetched - Count: 3
+[2026-03-03T11:06:22.361Z] INFO: Jobs fetched - Count: 3
+[2026-03-03T11:07:04.960Z] INFO: Jobs fetched - Count: 3
+[2026-03-03T11:07:04.965Z] INFO: Jobs fetched - Count: 3
+[2026-03-03T11:08:21.173Z] INFO: Shutting down server...
