@@ -491,3 +491,9 @@
 [2026-03-03T11:07:04.960Z] INFO: Jobs fetched - Count: 3
 [2026-03-03T11:07:04.965Z] INFO: Jobs fetched - Count: 3
 [2026-03-03T11:08:21.173Z] INFO: Shutting down server...
+[2026-03-03T14:14:32.649Z] INFO: Database connected
+[2026-03-03T14:14:32.666Z] INFO: Server running on port 5000 [development]
+[2026-03-03T14:14:33.409Z] INFO: Database connected
+[2026-03-03T14:14:33.412Z] INFO: Server running on port 5000 [development]
+[2026-03-03T14:14:59.971Z] INFO: Jobs fetched - Count: 3
+[2026-03-03T14:14:59.988Z] INFO: Jobs fetched - Count: 3
